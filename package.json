@@ -1,0 +1,30 @@
+
+{
+  "name": "diario-de-saude-poo",
+  "version": "1.0.0",
+  "description": "Um diário de saúde e alimentação estruturado com Programação Orientada a Objetos em JavaScript.",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "saude",
+    "alimentacao",
+    "poo",
+    "javascript"
+  ],
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Andr3z1n/Diario-de-Saude-2.0.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Andr3z1n/Diario-de-Saude-2.0/issues"
+  },
+  "homepage": "https://github.com/Andr3z1n/Diario-de-Saude-2.0#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
